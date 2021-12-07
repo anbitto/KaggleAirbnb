@@ -1,0 +1,8 @@
+
+Atributos del dataset:
+	['accommodates', 'bathrooms', 'bedrooms',
+    'calculated_host_listings_count', 'guests_included',
+    'host_listings_count', 'latitude', 'longitude', 'minimum_nights',
+    'number_of_reviews', 'd_centre', 'instant_bookable_f',
+    'instant_bookable_t', 'room_type_Entire home/apt',
+    'room_type_Private room', 'room_type_Shared room']
