@@ -43,8 +43,8 @@ A l'hora d'analitzar les dades i comprovar-ho amb els propis models, s'aprecia q
 
 | Model | Atributs | MSE | Score |
 | --- | --- | --- | --- | 
-| Regressió Lineal | accommodates | 3506,939 | -0,525 |
-| Regressió Lineal | accommodates | -1.899 | -2.513 |
+| Regressió Lineal | accommodates | 3429.886 | -0.903 |
+| Regressió Lineal | bedrooms | 3907.653 | -1.504 |
 | Regressió Lineal Polinòmica | accommodates, grau 2 | 7147.629 | -2.783 |
 | Regressió Lineal Polinòmica | accommodates, grau 8 | 7284.545 | -2.782 |
 | Regressió Lineal Polinòmica | bedrooms, grau 2 | 6533.191 | -3.364 |
